@@ -33,6 +33,11 @@
 
 <h3 align="left">🔵Github Status:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkushwaha360&show_icons=true&locale=en" alt="rajkushwaha360" /></p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajkushwaha360&theme=highcontrast&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha360&theme=highcontrast&show_icons=true" />
+</div>
+<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkushwaha360&" alt="rajkushwaha360" /></p>
+![github graph](https://activity-graph.herokuapp.com/graph?username=rajkushwaha360&theme=chartreuse-dark&hide_border=true)
+<br>
